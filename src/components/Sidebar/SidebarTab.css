@@ -1,0 +1,42 @@
+.tab-main {
+    width: 100%;
+    /* margin: 0 10px; */
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    padding: 2px 5px;
+    box-sizing: content-box;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.tab-main-active{
+    background: gray;
+    border-left: 4px solid black;
+    display: flex;
+    flex-direction: row;
+    /* margin: 5px; */
+    /* padding: 10px; */
+    cursor: pointer;
+    border-radius: 0 5px 5px 0;
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2);
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    border-radius: 5%;
+    background: darkgray;
+}
+
+.rectangle{
+    width: 2px;
+    height: 100%;
+    background: black;
+}
+
+.tab-title {
+    font-size: 16px;
+    line-height: 20px;
+    padding: 0px 10px;
+}

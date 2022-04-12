@@ -1,0 +1,14 @@
+.sidebar-main {
+    width: 230px;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 0px 20px;
+    border-right: 1px solid gray;
+}
+
+.sidebar-divider{
+    width: 80%;
+    color: transparent;
+}

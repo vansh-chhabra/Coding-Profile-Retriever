@@ -1,0 +1,49 @@
+.repo-wrapper {
+    display: flex;
+    flex-flow: column;
+    /* background: gray; */
+    width: 25%;
+    margin: 10px;
+    padding: 10px 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.git-repo-title {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px 0px;
+}
+
+.repo{
+    margin: 7px 0px;
+    background: #20CAEF;
+    padding: 5px 10px;
+    display: flex;
+    flex-flow: column;
+}
+
+.repo-name{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.repo-desc{
+    font-size: 14px;
+}
+
+.repo-lang-container {
+    /* background: white; */
+    border: 1px solid rgba(0, 0,0, 0.1);
+    background-color: rgba(255, 255, 255, 0.6);
+    width: 20%;
+    /* border-radius: 13px; */
+    text-align:center;
+    padding: 0px 0;
+    margin: 5px 0;
+}
+
+.repo-lang{
+    font-size: 14px;
+}

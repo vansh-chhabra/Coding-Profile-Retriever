@@ -1,0 +1,39 @@
+.total-contri-wrapper {
+    width: 25%;
+    margin: 10px;
+    padding: 30px 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    /* padding: 20px 0; */
+
+}
+
+.total-contri-text {
+    text-align: center;
+    font-size: 18px;
+    color: black;
+}
+
+.total-contri-number {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    color: #00C2ED;
+}
+
+.divider {
+    margin: 20px auto;
+    width: 80%;
+    /* margin-bottom: 10px; */
+}
+
+.slider-flex-container {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 14px;
+}
+

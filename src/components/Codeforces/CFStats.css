@@ -1,0 +1,48 @@
+.cf-stats-wrapper{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px 20px;
+    width: 30%;
+
+}
+
+.cf-stats-table {
+    /* width: 30%; */
+    width: 100%;
+    margin: 10px 0;
+    font: 16px;
+}
+
+
+td {
+    padding: 2px 5px;
+}
+
+.cf-stats-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.cf-stats-data {
+    font-weight: 400;
+}
+
+.cf-stats-divider {
+    width: 100%;
+}
+
+.cf-stats-sub-title{
+    /* padding: 10px; */
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+.cf-stats-container {
+    /* background: red; */
+    /* padding: 5px 0px; */
+    margin: 10px 0px;
+}

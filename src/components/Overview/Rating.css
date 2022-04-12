@@ -1,0 +1,32 @@
+.rating-wrapper {
+    width: 25%;
+    margin: 10px;
+    background: #FFFFFF;
+box-shadow: 0px 4px 20px 5px rgba(0, 0, 0, 0.1);
+border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.rating-header{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.rating-container{
+    background: #05D164;;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px 20px;
+    margin: 10px 0px;
+}
+
+/* .rating-label{
+    font-weight: 600;
+}
+
+.rating-value{
+    font-weight: 600;
+} */
